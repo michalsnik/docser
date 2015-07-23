@@ -1,0 +1,19 @@
+{
+  "name": "docser",
+  "version": "0.0.0",
+  "homepage": "https://github.com/michalsnik/docser",
+  "authors": [
+    "Michał Sajnóg <michal.sajnog@hotmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize-scss": "~3.0.3"
+  }
+}
